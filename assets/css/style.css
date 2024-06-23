@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body div {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#azul {
+  width: 200px;
+  height: 200px;
+  background: blue;
+  cursor: pointer;
+}
+#rojo {
+  width: 200px;
+  height: 200px;
+  background: red;
+}
+#verde {
+  width: 200px;
+  height: 200px;
+  background: green;
+}
+#amarillo {
+  width: 200px;
+  height: 200px;
+  background: yellow;
+}
+/**/
+#key,
+#key2 {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border: 1px solid black;
+}
